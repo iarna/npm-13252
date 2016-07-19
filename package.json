@@ -2,6 +2,7 @@
   "name": "13252",
   "version": "1.0.0",
   "scripts": {
+    "abc": "npm shrinkwrap",
     "shrinkwrap": "scripts/shrinkwrap.sh"
   }
 }
