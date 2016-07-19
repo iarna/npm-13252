@@ -2,7 +2,7 @@
   "name": "13252",
   "version": "1.0.0",
   "scripts": {
-    "abc": "npm shrinkwrap",
+    "abc": "npm shrinkwrap || mv npm-debug.log real-debug.log",
     "shrinkwrap": "scripts/shrinkwrap.sh"
   }
 }
